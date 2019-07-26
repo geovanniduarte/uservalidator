@@ -84,6 +84,7 @@ public class UserDetailActivity extends AppCompatActivity {
         recyclerView.setAdapter(this.mAdapter);
 
         this.myProgressBar = findViewById(R.id.intent_list_loading);
+        detailViewModel.loadIntents(mUsername);
 
     }
 
