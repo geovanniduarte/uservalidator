@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">uservalidator</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="validator_logo_description">Validator logo</string>
+
+    <string name="val_hint_username">Username</string>
+    <string name="val_hint_password">Password</string>
+    <string name="val_button_next">Verify</string>
+    <string name="val_button_list">List</string>
+    <string name="val_button_cancel">Cancel</string>
+    <string name="val_error_password">must contain at least 8 characters.</string>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+    <string name="val_error_username">Invalid username</string>
+    <string name="msg_saved">User saved</string>
+    <string name="msg_user_no_exist">User doesn\'t exist, Create?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="msg_success">Success</string>
+    <string name="msg_failed">Failed</string>
+    <string name="location_rationale">location permissions?</string>
+    <string name="msg_verifying_user">Verifying user</string>
+    <string name="msg_getting_location">Getting Location</string>
+    <string name="msg_saving_user">Saving User</string>
+
+
+</resources>
